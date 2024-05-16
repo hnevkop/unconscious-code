@@ -1,15 +1,5 @@
-coming-soon
+unconscious-code
 ======================
-[![deploy](https://github.com/arkn98/coming-soon/workflows/deploy/badge.svg)](https://github.com/arkn98/coming-soon/actions?query=workflow%3Adeploy)
-[![license](https://img.shields.io/github/license/arkn98/coming-soon)](LICENSE)
-
-A simple coming soon page, built using [create-react-app](https://github.com/facebook/create-react-app).
-
-<p align="center">
-  <img src="./docs/scrot.png" alt="Coming soon page" width="738">
-</p>
-
-**Note:** I created this as an exercise when I was learning React. So please be mindful of many things that are considered "non-optimal".
 
 ## Getting started
 
@@ -33,4 +23,4 @@ A simple coming soon page, built using [create-react-app](https://github.com/fac
 
 Uses: 
  - [simple-icons](https://github.com/simple-icons/simple-icons) released under the [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) license.
- - [IBM Plex](https://github.com/IBM/plex) released under the [OFL-1.1](https://github.com/IBM/plex/blob/master/LICENSE.txt) license.
+ - Barlow font from [Google Fonts](https://fonts.google.com/specimen/Barlow) released under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
