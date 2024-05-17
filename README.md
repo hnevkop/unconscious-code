@@ -1,7 +1,6 @@
 unconscious-code
 ======================
-
-## Getting started
+A simple coming soon page for the Unconscious Code project.
 
 ### Installation
 
@@ -20,6 +19,8 @@ unconscious-code
 2. Copy the contents of the `build` folder and serve it with your own server
 
 ## Thanks
+
+Forked from and thanks to: https://arkn98.github.io/coming-soon/ 
 
 Uses: 
  - [simple-icons](https://github.com/simple-icons/simple-icons) released under the [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) license.
