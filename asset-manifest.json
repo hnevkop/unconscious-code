@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5884f2f6.css",
+    "main.css": "/static/css/main.217d8ead.css",
     "main.js": "/static/js/main.86bd64ef.js",
     "static/media/Barlow-BoldItalic.ttf": "/static/media/Barlow-BoldItalic.29e6ff4a240b95ad14f2.ttf",
     "static/media/logo.jpg": "/static/media/logo.6fe317f86b7811210702.jpg",
@@ -11,11 +11,11 @@
     "static/media/Barlow-Medium.ttf": "/static/media/Barlow-Medium.d4afdc134fc10b739bab.ttf",
     "static/media/twitter.svg": "/static/media/twitter.5214ad3cf7c05ed4edff0e69ce917cfc.svg",
     "index.html": "/index.html",
-    "main.5884f2f6.css.map": "/static/css/main.5884f2f6.css.map",
+    "main.217d8ead.css.map": "/static/css/main.217d8ead.css.map",
     "main.86bd64ef.js.map": "/static/js/main.86bd64ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.5884f2f6.css",
+    "static/css/main.217d8ead.css",
     "static/js/main.86bd64ef.js"
   ]
 }
