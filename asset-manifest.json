@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4a046a4.css",
+    "main.js": "/static/js/main.86bd64ef.js",
+    "static/media/Barlow-BoldItalic.ttf": "/static/media/Barlow-BoldItalic.29e6ff4a240b95ad14f2.ttf",
+    "static/media/logo.jpg": "/static/media/logo.6fe317f86b7811210702.jpg",
+    "static/media/Barlow-Italic.ttf": "/static/media/Barlow-Italic.caaa31856c16f880fb09.ttf",
+    "static/media/Barlow-MediumItalic.ttf": "/static/media/Barlow-MediumItalic.0914a22fa6bdca287e4d.ttf",
+    "static/media/Barlow-Bold.ttf": "/static/media/Barlow-Bold.0cb1ab864072bf9e0991.ttf",
+    "static/media/Barlow-Regular.ttf": "/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
+    "static/media/Barlow-Medium.ttf": "/static/media/Barlow-Medium.d4afdc134fc10b739bab.ttf",
+    "static/media/twitter.svg": "/static/media/twitter.5214ad3cf7c05ed4edff0e69ce917cfc.svg",
+    "index.html": "/index.html",
+    "main.a4a046a4.css.map": "/static/css/main.a4a046a4.css.map",
+    "main.86bd64ef.js.map": "/static/js/main.86bd64ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a046a4.css",
+    "static/js/main.86bd64ef.js"
+  ]
+}
